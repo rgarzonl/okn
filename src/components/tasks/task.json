@@ -1,0 +1,68 @@
+{
+	"id": "1",
+	"description": "",
+	"urlDownload": "",
+	"deliveries": [
+		{
+			"version": "1",
+			"size": "3.8 MB",
+			"uploadDate": "28/12/2018 14:45",
+			"nameFile": "Título del archivo a subir 2.pdf",
+			"urlDownload": "",
+			"comments": [
+				{
+					"user": {
+						"name": "María",
+						"surnames": "García Muñoz",
+						"username": "mgarciam",
+						"avatar": "avatar01"
+					},
+					"isProfesor": false,
+					"comment": "Buenas tardes, acabo de subir el primer archivo con el primer caso práctico, espero revisión",
+					"date": "28/12/2018 14:45"
+				},
+				{
+					"user": {
+						"name": "Rafael",
+						"surnames": "Garzón Llorente",
+						"username": "rgarzonl",
+						"avatar": "avatar02"
+					},
+					"isProfesor": true,
+					"comment": "¡Gran trabajo Silvia! Pero creo qeu deberias revisar el punto 3, Intenta añadir un poco mas de contexto yun apartado final de conclusiones personales.",
+					"date": "29/12/2018 10:11"
+				}
+			]
+		},
+		{
+			"version": "2",
+			"size": "4.8 MB",
+			"uploadDate": "30/12/2018 08:22",
+			"nameFile": "Título del archivo a subir 2.pdf",
+			"comments": [
+				{
+					"user": {
+						"name": "María",
+						"surnames": "García Muñoz",
+						"username": "mgarciam",
+						"avatar": "avatar01"
+					},
+					"isProfesor": false,
+					"comment": "Realizados los cambios según felback.",
+					"date": "30/12/2018 08:22"
+				},
+				{
+					"user": {
+						"name": "Rafael",
+						"surnames": "Garzón Llorente",
+						"username": "rgarzonl",
+						"avatar": "avatar02"
+					},
+					"isProfesor": true,
+					"comment": "Perfecto, excelente trabajo",
+					"date": "30/12/2018 15:25"
+				}
+			]
+		}
+	]
+}

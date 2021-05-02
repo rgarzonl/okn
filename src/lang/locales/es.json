@@ -1,0 +1,8 @@
+{
+  "label": "Español",
+  "application": {
+    "openDialog" : "Abrir modal",
+    "comments": "Comentarios",
+    "version": "Version"
+  }
+}
